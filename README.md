@@ -1,7 +1,7 @@
 # BizLink
 
 ### Inspiration
-https://dribbble.com/shots/25742359-CRM-Dashboard-App-Design
+[Dribble](https://dribbble.com/shots/25742359-CRM-Dashboard-App-Design)
 
 ### Live Demo
 https://bitlinkdemo.netlify.app
