@@ -1,10 +1,10 @@
 # BizLink
 
 ### Inspiration
-[Dribble](https://cdn.dribbble.com/userupload/41505217/file/original-67e6a497c042e3e5028704313e0738c1.png?resize=2048x1536&vertical=center)
+(https://dribbble.com/shots/25742359-CRM-Dashboard-App-Design)
 
 ### Live Demo
-[Live](https://bitlinkdemo.netlify.app)
+(https://bitlinkdemo.netlify.app)
 
 ## Customizations
 - **Font:** Uses [General Sans](https://fonts.cdnfonts.com/css/general-sans) globally
